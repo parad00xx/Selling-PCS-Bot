@@ -18,5 +18,7 @@ Because of consistent wallet creations, I can't provide a screenshot of the tota
 
 This bot is not any sort of fork from a bot on GitHub. 100% ORIGINAL CODE.
 
-If you are interested or have any questions, you can contact me at this email: parad00xx@protonmail.com (I will not be answering any irrelevant emails.)
+If you are interested or have any questions, you can contact me at this email: parad00xx@protonmail.com 
+(This is my only contact, annd I will not be answering any irrelevant emails.)
+
 For everybody else, have a good day. Thank you.
