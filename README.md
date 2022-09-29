@@ -1,5 +1,5 @@
 # Selling-PCS-Bot
-Hi, i am selling my custom coded PCS bot.
+Hi, I am selling my custom coded Predictions bot for a fair price.
 
 Since February 2022, I have been developing, testing and recently been profiting off of a PancakeSwap Predictions bot, and i will be selling it for 4BNB to a maximum of ten people as to prevent code leakage. BNB/USDT ONLY.
 
