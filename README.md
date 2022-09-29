@@ -22,3 +22,7 @@ If you are interested or have any questions, you can contact me at this email: p
 (This is my only contact, and I will not be answering any irrelevant emails.)
 
 For everybody else, have a good day. Thank you.
+
+EDIT:
+
+I forgot to mention in the original version of this readme that I have sold one copy of the bot already, leaving 9 left. The price is still 4BNB.
